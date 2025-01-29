@@ -3,3 +3,5 @@ game.sln
 game.vcxproj
 game.vcxproj.filters
 game.vcxproj.user
+game
+x64
